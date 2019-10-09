@@ -1,0 +1,1 @@
+The prediction script can be run from the command line to perform analysis on the iris csv file. If you want to add more test data, simply add it to the csv file.  The Jupyter notebook contains various visualizations created using matplotlib, as well as the prediction script.
